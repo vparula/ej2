@@ -8,3 +8,4 @@ huevos
 harina
 aceite	
 vinagre
+panceta
